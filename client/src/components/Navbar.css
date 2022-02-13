@@ -1,0 +1,9 @@
+img {
+    height: 20px;
+    width: 20px;
+    /* object-fit: contain; */
+}
+.nav-item i{
+  margin: 5px;
+  color: #f1b56b;
+}

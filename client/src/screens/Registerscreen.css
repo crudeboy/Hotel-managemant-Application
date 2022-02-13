@@ -1,0 +1,39 @@
+.register{
+  /* background-image: url('../src/screens/images/banner5.jpg');  */
+  background-image: url('../screens/images/banner5.jpg');
+  background-size: cover;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 100vh; 
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px; 
+}
+.form-control{
+    padding: 20px;
+    margin-bottom: 30px;
+    /* margin-top: 10px; */
+}
+.title{
+    margin-bottom: 50px;
+    font-weight: 400;
+}
+.InputContainer{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 20%;
+}
+.InputContainer input{
+  border-color: #ffc783  !important;
+}
+.InputContainer button{
+    border: none;
+}
+.InputContainer  > a > p{
+    color: #fff;
+}
